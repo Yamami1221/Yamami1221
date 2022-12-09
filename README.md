@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yamami1221
 - 👀 I’m interested in AI MachineLearning
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JS CPP Rust Python
+- 💞️ I’m looking to collaborate on ... not yet
 - 📫 How to reach me ... Better not
 
 <!---
