@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yamami1221&include_all_commits=true&count_private=true&theme=omni&show_icons=true" alt="yamami1221" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamami1221&" alt="yamami1221" /></p>
+
+<h1 align="center">Thanks for visiting!</h1>
