@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamami1221" alt="yamami1221" /></a> </p>
 
-- 🔭 I’m currently working on **nothing**
-
 - 🌱 I’m currently learning **JS,CPP,Rust,Python**
-
-- 👯 I’m looking to collaborate on **...No**
-
-- 🤝 I’m looking for help with **Nooooo**
 
 - 📫 How to reach me **anak2547@gmail.com**
 
