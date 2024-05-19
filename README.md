@@ -11,9 +11,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yamami1221&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Yamami1221&icon=0&color=1)](https://visitcount.itsvg.in)
 
